@@ -1,0 +1,27 @@
+# Site settings
+title: 气包子 - Wiki
+header-img: img/home-bg.jpg
+email: contact@abzi.co
+description: "This is our Wiki (also blog). Angry Baozi 气包子 is an indie creative studio focuses on making impactful Internet services (SAAS), and games. We're based in Shenzhen, China but can work anywhere remotely."
+baseurl: ""
+url: "https://wiki.abzi.co"
+twitter_username: abzi_co
+github_username:  abzico
+facebook_username:  StartBootstrap
+email_username:  contact@abzi.co
+host: 0.0.0.0
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

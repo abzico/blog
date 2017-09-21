@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+<header class="intro-header tint-darken" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <div class="site-heading">
+                    <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
+                    <hr class="small">
+                    <span class="subheading">{{ page.description }}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+    {% if page.product_status or page.product_status_desc or page.product_active or page.published_date or page.updated_date %}
+    <div class="row">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 post-meta-info">
+            <!-- if has "released" word then gree, otherwise in red -->
+            {% if page.product_status %}
+                Status 
+
+                {% if page.product_status == "Released" %}
+                <span class="post-meta-info-value" style="color:green">{{ page.product_status }}</span><br/>
+                {% else %}
+                <span class="post-meta-info-value" style="color:red">{{ page.product_status }}</span><br/>
+                {% endif %}
+            {% endif %}
+
+            {% if page.product_status_desc %}
+                Status Note <span class="post-meta-info-value">{{ page.product_status_desc }}</span><br/>
+            {% endif %}
+
+            {% if page.product_active %}
+                In active development <span class="post-meta-info-value active-development-bubble">Yes</span><br/>
+            {% endif %}
+
+            {% if page.published_date %}
+                Product Published <span class="post-meta-info-value" title="{{ page.published_date }}">{{ page.published_date | date: "%B %-d, %Y" }}</span><br/>
+            {% endif %}
+
+            {% if page.updated_date %}
+                Product Updated <span class="post-meta-info-value" title="{{ page.updated_date }}">{{ page.updated_date | date: "%B %-d, %Y" }}</span>
+            {% endif %}
+        </div>
+    </div>
+    <hr>
+    {% endif %}
+	<div class="row">
+		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+			{{ content }}
+		</div>
+	</div>
+</div>
