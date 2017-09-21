@@ -10,6 +10,7 @@ github_username:  abzico
 facebook_username:  wedontusethis
 email_username:  contact@abzi.co
 host: 0.0.0.0
+permalink: /:categories/:year/:month/:day/:title/
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

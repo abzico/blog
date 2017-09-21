@@ -4,7 +4,7 @@ title: "RacePlant"
 description: "Multiplayer hot-eat game of planting tree, and collecting its fruits for score."
 header-img: "img/products/raceplant/raceplant-screenshot.png"
 author: "Wasin Thonkaew"
-permalink: /raceplant
+permalink: /raceplant/
 published_date: 2017-09-21 15:24
 updated_date: 2017-09-21 18:22
 include_in_nav: true

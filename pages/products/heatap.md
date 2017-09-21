@@ -5,7 +5,7 @@ description: "HeaTap, crowd-source location-based for interesting places and are
 header-img: "img/products/heatap/screenshot.jpg"
 author: "Wasin Thonkaew"
 include_in_nav: true
-permalink: /heatap
+permalink: /heatap/
 published_date: 2017-09-22 00:46
 include_in_nav: true
 product_status: In-development
