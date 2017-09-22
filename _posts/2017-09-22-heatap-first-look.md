@@ -3,7 +3,7 @@ layout: post
 title: "HeaTap - Devlog #1"
 subtitle: "Start with HeaTap development"
 author:     "Wasin Thonkaew"
-header-img: "img/products/raceplant/raceplant-screenshot.png"
+header-img: "img/heatap/heatap-september-1.jpg"
 ---
 
 # Start from Prototypting
