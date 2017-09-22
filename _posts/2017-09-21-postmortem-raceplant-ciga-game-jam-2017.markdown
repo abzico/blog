@@ -221,7 +221,7 @@ ___
 	Player can give a stuff which can be bucket, seed, or fruit to other player.
 
 	<center>
-	![gif - give thing to opponent](http://i.imgur.com/xzJ5hZc.gif)<br/>
+	![gif - give thing to opponent](/img/heatap/xzJ5hZc.gif)<br/>
 	<sub>Giving thing to opponent</sub>
 	</center>
 
@@ -230,9 +230,9 @@ ___
 	Tree has 3 step to grow. Only the final step in which it can generate seed and fruit.
 
 	<center>
-	![gif - tree grow to step 2](http://i.imgur.com/PkYArMl.gif)
+	![gif - tree grow to step 2](/img/heatap/PkYArMl.gif)
 
-	![gif - tree grow to step 3](http://i.imgur.com/jeayq4f.gif)
+	![gif - tree grow to step 3](/img/heatap/jeayq4f.gif)
 	</center>
 	<center>
 	<sub><b>Left</b>: Tree grows into step 2</sub><br/>
@@ -244,7 +244,7 @@ ___
 	Fruit will be treated as a score whenever player takes it back to stockpile tiles. Seed can be used to further grow another tree as well.
 
 	<center>
-	![gif - generation of fruit and seed](http://i.imgur.com/WlWMbIA.gif)<br/>
+	![gif - generation of fruit and seed](/img/heatap/WlWMbIA.gif)<br/>
 	<sub>Fruit and seed generated from a tree</sub>
 	</center>
 
@@ -253,7 +253,7 @@ ___
 	Fruit is a main target for player to collect for score.
 
 	<center>
-	![gif - collect fruit for score](http://i.imgur.com/B7c8J2G.gif)<br/>
+	![gif - collect fruit for score](/img/heatap/B7c8J2G.gif)<br/>
 	<sub>Collect a fruit back to stockpile for a score</sub>
 	</center>
 
@@ -262,7 +262,7 @@ ___
 	Bucket can be either empty or full. In order to water the tree, player needs to fill a bucket first. Find a nearby water tile to fill it.
 
 	<center>
-	![gif - fill water in a bucket](http://i.imgur.com/6EfdAfb.gif)<br/>
+	![gif - fill water in a bucket](/img/heatap/6EfdAfb.gif)<br/>
 	<sub>Fill a bucket with water from a nearby water tile</sub>
 	</center>
 
@@ -271,7 +271,7 @@ ___
 	Take bucket with water filled to water the tree to accelerate its growth.
 
 	<center>
-	![gif - watering the plant](http://i.imgur.com/Tu3Uggv.gif)<br/>
+	![gif - watering the plant](/img/heatap/Tu3Uggv.gif)<br/>
 	<sub>Water a tree to accelerate its grow</sub>
 	</center>
 
@@ -284,7 +284,7 @@ ___
 	> It turns out that the fix is easy. Use the height of object, then subtract it with desire size of object i.e. player. Use y position as z position in 2D game, then sort all object according to that value, draw object with bigger value of y first. Do this every frame.
 
 	<center>
-	![gif - z-order sorting](http://i.imgur.com/oFEOLwy.gif)<br/>
+	![gif - z-order sorting](/img/heatap/oFEOLwy.gif)<br/>
 	<sub>Z-order sorting</sub>
 	</center>
 
