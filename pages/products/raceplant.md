@@ -1,7 +1,7 @@
 ---
 layout: product
 title: "RacePlant"
-description: "Multiplayer hot-eat game of planting tree, and collecting its fruits for score."
+description: "Multiplayer hot-seat game of planting tree, and collecting its fruits for score."
 header-img: "img/products/raceplant/raceplant-screenshot.png"
 author: "Wasin Thonkaew"
 permalink: /raceplant/
