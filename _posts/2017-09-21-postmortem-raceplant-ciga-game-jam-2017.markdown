@@ -317,7 +317,7 @@ Great thing is to see people smile and laugh while playing your game.
 At last, I open sourced the project too if you're interested to know more (note the license of the project).  
 Head to [raceplant](https://github.com/haxpor/raceplant).
 
-__=>__ Download the game [here](http://wanga.me/CGJ2017/detail?game=147), or support us at [itch.io](https://haxpor.itch.io/race-plant).
+__=>__ Download the game [here](http://wanga.me/CGJ2017/detail?game=147), or support us at [itch.io](https://abzico.itch.io/race-plant).
 
 All in all, feel free to let me know what you think about the game below in comment section.
 
