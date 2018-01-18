@@ -33,4 +33,4 @@ Read its [postmortem](/2017/09/21/postmortem-raceplant-ciga-game-jam-2017/).
 
 Open source version of the game is available on Github. Click on the image above.
 
-Support us and the game on [itch.io](https://haxpor.itch.io/race-plant).
+Support us and the game on [itch.io](https://abzico.itch.io/race-plant).
