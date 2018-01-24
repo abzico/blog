@@ -164,7 +164,7 @@ img {
   margin-bottom: 50px;
 }
 .tint-darken {
-  box-shadow: inset 2000px 0 0 0 rgba(0, 0, 0, 0.5);
+  box-shadow: inset 3000px 0 0 0 rgba(0, 0, 0, 0.5);
 }
 .intro-header .site-heading,
 .intro-header .post-heading,
