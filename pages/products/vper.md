@@ -8,7 +8,6 @@ permalink: /vper/
 include_in_nav: true
 product_status: In Development
 product_status_desc: "During initial development"
-published_date: 2018-02-03 05:03
 product_active: true
 ---
 
