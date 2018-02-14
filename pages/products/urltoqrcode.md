@@ -27,5 +27,5 @@ URLtoQRCode is released on Chrome store as well as open source on Github. See be
 </center>
 
 <center>
-<a href="https://chrome.google.com/webstore/detail/urltoqrcode/hhhbcbooldghbplkblcdldokgnlcconf?hl=en-US" class="no-line"><img src="/img/products/protik/ChromeWebStore_Badge_v2_340x96.png" style="cursor:pointer;" alt="chrome webstore download"></a>
+<a href="https://chrome.google.com/webstore/detail/urltoqrcode/hclhmdgpfbmmlmebdipibijpfneglofc" class="no-line"><img src="/img/products/protik/ChromeWebStore_Badge_v2_340x96.png" style="cursor:pointer;" alt="chrome webstore download"></a>
 </center>
