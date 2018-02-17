@@ -23,5 +23,5 @@ Then the project got hooked up with the energy of GLSL to source those cool and 
 We planned to release as beta version for you to test. Thus if you're interested, feel free to get in touch and let us know from the contact section below either via e-mail or various social medias.
 
 <center>
-![raceplant feature promo](/img/products/angie/feature-graphic.png)
+[![raceplant feature promo](/img/products/angie/feature-graphic.png)](/img/products/angie/feature-graphic.png)
 </center>
