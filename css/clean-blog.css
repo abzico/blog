@@ -441,15 +441,32 @@ body {
   text-align: center;
   font-size: 12px;
 }
-.footnote-section > .gray {
+.footnote-section .gray {
   color: #999999;
   margin-top: 5px;
 }
-.footnote-section > a {
+.footnote-section a.miit-link {
   border-bottom: 2px dotted #555555;
   padding-bottom: 3px;
   text-decoration: none;
   color: #999999;
+}
+.footnote-section .public-account-qrcode {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.public-account-qrcode img {
+  height: 64px;
+}
+.footnote-section .public-account-text {
+  color: white;
+  text-align: left;
+  padding-top: 10px;
+}
+.public-account-text .gray {
+  color: #999999;;
 }
 .footnote-pre-hr {
   margin: 80px 0 0 0;
@@ -578,4 +595,14 @@ body {
   font-size: 14px;
   color: black;
   box-shadow: 1px 0 1px 0 rgba(0,0,0,0.25);
+}
+
+@media screen and (max-width:770px) {
+  .footnote-section .public-account-text {
+    text-align: center;
+    margin-top: 10px;
+  }
+  .footnote-section .left-section {
+    margin-bottom: 30px;
+  }
 }
