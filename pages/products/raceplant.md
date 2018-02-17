@@ -26,10 +26,24 @@ RacePlant made during 48 hours game jam; CIGA Game Jam 2017 held in Shenzhen, Ch
 </center>
 
 <center>
+<div style="display:block">
+![public play raceplant](/img/products/raceplant/public-play.jpg)
+</div>
+<sub>Public DEMO day</sub>
+</center>
+
+<center>
+<div style="display:block">
+![public audience raceplant](/img/products/raceplant/audience.jpg)
+</div>
+<sub>Audience CIGA Game Jam</sub>
+</center>
+
+<center>
 <a href="https://github.com/haxpor/raceplant" class="no-line"><img src="/img/contactus/github-logo.png" style="cursor: pointer;"></a><br/><a href="https://github.com/haxpor/raceplant">RacePlant (Open source v.)</a>
 </center>
 
-Read its [postmortem](/2017/09/21/postmortem-raceplant-ciga-game-jam-2017/).
+Find out more about the project for its postmortem [here](/2017/09/21/postmortem-raceplant-ciga-game-jam-2017/).
 
 Open source version of the game is available on Github. Click on the image above.
 
