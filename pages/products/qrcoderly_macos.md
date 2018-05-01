@@ -25,4 +25,5 @@ A menubar-based app on macOS to read QR Code.
 
 # Links
 * Github - [abzico/qrcoderly-macos](https://github.com/abzico/qrcoderly-macos)
+* ProductHunt - [qrcoderly-macos](https://www.producthunt.com/posts/qrcoderly-macos)
 * Itch.io - [qrcoderly-macos](https://abzico.itch.io/qrcoderly-macos) <--- You can purchase the app here!
