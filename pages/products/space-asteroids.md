@@ -26,6 +26,12 @@ The game has open source version whose core system is used by this released vers
 <a href="https://github.com/haxpor/asteroids" class="no-line"><img src="/img/contactus/github-logo.png" style="cursor: pointer;max-width:90px"></a><br/><a href="https://github.com/haxpor/asteroids">haxpor/asteroids</a>
 </center>
 
+Download the game for free on Play Store
+
+<center>
+<a href='https://play.google.com/store/apps/details?id=io.wasin.asteroids&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1' class="no-line"><img alt='Get it on Google Play' style="cursor: pointer" src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+</center>
+
 # Privacy Policy
 
 You can read and undertand how we collect and use your data at <a href="/space-asteroids/privacy-policy/">Privacy Policy</a>.
