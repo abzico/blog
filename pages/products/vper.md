@@ -6,8 +6,8 @@ header-img: "img/products/vper/header.png"
 author: "Wasin Thonkaew"
 permalink: /vper/
 include_in_nav: true
-product_status: In Development
-product_status_desc: "During initial development"
+product_status: Development has been stopped
+product_status_desc: "Collaboration has ended as Angry Baozi will focus on something else. We wish Kooon all the best for future development"
 product_active: true
 ---
 
